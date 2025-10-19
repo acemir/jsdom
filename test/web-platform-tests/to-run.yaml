@@ -221,7 +221,6 @@ parsing/display-computed.html: [fail, Depends on CSS]
 parsing/tentative/display-computed.html: [fail, masonry and inline-masonry not implemented]
 parsing/tentative/display-valid.html: [fail, masonry and inline-masonry not implemented]
 reading-flow/tentative/**/!(reading-flow-valid.html|reading-flow-invalid.html|reading-order-invalid.html): [fail, Unknown]
-textarea-display.html: [fail, Unknown]
 
 ---
 
